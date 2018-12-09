@@ -1,5 +1,5 @@
 [package]
-name = "configfoo_rust"
+name = "configfoo"
 version = "0.1.0"
 authors = ["Finn Behrens <finn@kloenk.de>"]
 edition = "2018"
